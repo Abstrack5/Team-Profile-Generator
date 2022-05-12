@@ -1,0 +1,26 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "![GitHub](https://img.shields.io/github/license/Abstrack5/Team-Profile-Generator?style=plastic)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abstrack5/Team-Profile-Generator.git"
+  },
+  "author": "Abstrack5",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abstrack5/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Abstrack5/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.0"
+  }
+}
